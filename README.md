@@ -1,4 +1,6 @@
-# dbt-snowflake
+# Projeto de Carga entre o DBT e Snowflake
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Instalacao
 Instalando ambiente virtual
